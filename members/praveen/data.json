@@ -1,11 +1,11 @@
 {
-  "id": "praveen-pk",
+  "id": "praveen",
   "first_name": "Praveen",
   "last_name": "Kumar",
   "yoe": 13,
   "company": "Prime Focus",
   "designation": "Technical Lead",
-  "img": "./img.png",
+  "img": "./pvn.png",
   "github_id": "pvn",
   "linkedin_id": "praveenkumarshrivastav",
   "twitter_id": "praveen_tech"

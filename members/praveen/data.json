@@ -1,0 +1,12 @@
+{
+	"id": "praveen",
+	"first_name": "Praveen",
+	"last_name": "Kumar",
+	"yoe": 12,
+	"company": "Prime Focus",
+	"designation": "Technical Lead",
+	"img": "./img.png",
+	"github_id": "pvn",
+	"linkedin_id": "praveenkumarshrivastav",
+	"twitter_id": "praveen_tech",
+}

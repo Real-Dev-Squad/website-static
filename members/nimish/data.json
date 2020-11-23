@@ -1,0 +1,14 @@
+{
+	"id": "nimish",
+	"first_name": "Nimish",
+	"last_name": "Gupta",
+	"yoe": 4,
+	"company": "Pesto Tech",
+	"designation": "Software Engineer",
+	"img": "./img.png",
+	"github_id": "nimish-gupta",
+	"linkedin_id": "nimish-gupta",
+	"twitter_id": "nimishrocks2",
+	"instagram_id": "nimish183",
+	"site": "nimish-gupta.dev"
+}

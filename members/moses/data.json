@@ -1,0 +1,11 @@
+{
+    "id": "moses",
+    "first_name": "Moses",
+    "last_name": "Kamara",
+    "yoe": 1,
+    "company": "Shared Journeys",
+    "designation": "Full Stack Web Developer",
+    "img": "./img.png",
+    "github_id": "kamara-moses",
+    "linkedin_id": "moses-kamara"
+}
